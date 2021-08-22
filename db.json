@@ -1,7 +1,7 @@
 {
   "contents": [
     { "id":"1","title": "Bài viết 1", "brief": "Giới thiệu",  "content": "Nội dung 1", "createdDate": "22-8-2021 11:20"},
-    { "id":"2","title": "Bài viết 2", "brief": "Giới thiệu 2",  "content": "Nội dung 2", "createdDate": "22-8-2021 11:20"}
+    { "id":"2","title": "Bài viết 2", "brief": "Giới thiệu 2",  "content": "Nội dung 2", "createdDate": "22-8-2021 11:25"}
   ],
   "users": [
     {
